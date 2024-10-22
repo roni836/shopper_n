@@ -1,6 +1,0 @@
-{
-  "/_not-found/page": "app/_not-found/page.js",
-  "/(frontend)/page": "app/(frontend)/page.js",
-  "/(frontend)/login/page": "app/(frontend)/login/page.js",
-  "/(frontend)/[product_slug]/page": "app/(frontend)/[product_slug]/page.js"
-}
