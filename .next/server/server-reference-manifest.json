@@ -1,0 +1,14 @@
+{
+  "node": {
+    "170bdf328d3c6b4f2b467dd8741ff0b722c5874c": {
+      "workers": {
+        "app/(frontend)/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cronin%5C%5COneDrive%5C%5CDesktop%5C%5Cnext_js%5C%5Cshopper%5C%5Capp%5C%5C(frontend)%5C%5Clogin%5C%5C_components%5C%5Csign-in.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(frontend)/login/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "M/8AyRc1+nmcQUUfciUPmcu18GdDq3QFIhEkPS2Fa08="
+}
